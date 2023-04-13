@@ -2,8 +2,7 @@
 # NexgenSure
  Insurance Aggregator Platform
 
-NexgenSure is a one stop shop for customers to browse through a variety of insurance plans, purchase policies and report claims and for the
-companies to add and display their products.
+NexgenSure is a one stop shop for customers to browse through a variety of insurance plans, purchase policies and report claims and for the companies to add and display their products.
 
 ## Features
 - Insurance Companies can add policies, bundles of policies, view ratings and can view claims reported by customers.
